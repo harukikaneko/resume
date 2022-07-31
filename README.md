@@ -1,8 +1,8 @@
-# { name } resume
+# kanekoharuki's resume
 
-## Sample
+## Data
 
-https://github.com/kawamataryo/resume
+- [GitHub Pages](https://harukikaneko.github.io/resume/)
 
 ## Features
 
