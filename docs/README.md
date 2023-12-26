@@ -24,10 +24,11 @@
 ### 言語
 
 <p>
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
 </p>
@@ -37,6 +38,8 @@
 <p>
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
+  <img alt="Rails" src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAF.svg?logo=react&style=flat-square">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img alt="Buildkite" src="https://img.shields.io/badge/-Buildkite-14CC80?style=flat-square&logo=Buildkite&logoColor=white" />
@@ -47,7 +50,35 @@
 
 ## 職務経歴詳細
 
-### 株式会社ユーザベース（2021/05〜現在）
+### SmartHR(2023/05~現在)
+- **SmartHRでの基本的な開発スタイル**
+  1. スクラム（Less）
+  2. TDD
+
+**【プロダクト 人事評価 機能の新規機能開発（２０２３年下期）】**
+- **プロジェクト概要：**
+  - 人事評価におけるMMB以上顧客の「前工程の重要課題」と「データ連携」をやりきる
+- **規模**
+  - 4 名
+- **期間**
+  - 2023/07 ~ 2023/12
+- **プロジェクト詳細**
+  - Typescript/React でフロントの設計、開発
+  - Ruby/Rails で バックエンド を設計、開発
+  - 下期という範囲なので、色々やってましたが...
+    - 自分たちのプロダクトで持っているデータを他のプロダクトと連携することが多かった印象です
+      - 評価の開始・完了などのイベント情報を送る
+      - GraphQLを使ってとあるデータを連携するなど
+      - 他小さい機能の開発や既存機能の改修などを行ってました
+- **サイドタスク**
+  - チームも巻き込んで行うこともありますが、個人でボールを持って進めるタスクです
+    - VRTの導入
+    - フロントにインテグレーションテストを導入
+    - eslintのwarning（500個）を修正
+    - N+1の修正
+    - indexの貼り直し
+
+### 株式会社ユーザベース（2021/05〜2023/04）
 
 - **ユーザベースでの基本的な開発スタイル**
   1. アジャイル開発：XP(エクストリーム・プログラミング）の考えをベースに実践しています
