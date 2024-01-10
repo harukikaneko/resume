@@ -13,9 +13,9 @@
 
 ## 保有スキル
 
-- フロントエンドの開発・運用、設計、要件定義（Nuxt.js、Dart/Angular、Next.js)
+- フロントエンドの開発・運用、設計、要件定義（React、TypeScript、Nuxt.js、Dart/Angular、Next.js)
 - サーバーサイドの開発・運用、設計、要件定義（Rust、Go、Kotlin、Python)
-- アジャイル（XP)
+- アジャイル（XP)、スクラム
 
 ---
 
