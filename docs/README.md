@@ -75,8 +75,10 @@
     - VRT の導入
     - フロントにインテグレーションテストを導入
     - eslint の warning（500 個）を修正
-    - N+1 の修正
-    - index の貼り直し
+    - パフォーマンスの改善
+      - N+1 の修正
+      - index の貼り直し
+        - NewrelicやCloud Logging、Query Insightsを見て改善箇所を見つけたりしてます
     - rails のバージョンアップ
 
 ### 株式会社ユーザベース（2021/05〜2023/04）
